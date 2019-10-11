@@ -30,7 +30,7 @@
     "prettier": "^1.5.3"
   },
   "peerDependencies": {
-    "react-native": ">=0.36.0",
-    "react-native-background-fetch": "2.0.x"
+    "react-native": ">=0.56.0",
+    "react-native-background-fetch": "2.7.1"
   }
 }
